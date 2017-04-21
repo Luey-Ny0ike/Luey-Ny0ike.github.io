@@ -1,0 +1,24 @@
+h1{
+  text-align: center;
+  color:black;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  font-size: 70px;
+}
+body {
+  background-color: grey;
+  background-position: center;
+  background-size: cover;
+}
+.important{
+  font-size: 25px;
+}
+.piano
+{
+  font-size: 30px;
+  font-style: oblique;
+}
+.part{
+  font-size: 25px;
+  font-style: normal;
+}
